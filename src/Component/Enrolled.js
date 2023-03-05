@@ -56,7 +56,7 @@ class Enrolled extends React.Component{
                           Skills:
                           <ul>{elem.skills.map(ele=>{return(<li>{ele}</li>)})}</ul>
                           </td>
-                        <td><img src={elem.imgmode ? male:female} width={150} height={150}/>{elem.img}</td>
+                        <td><img src={elem.imgmode ? male:female} width={150} height={150} alt="profileimg"/>{elem.img}</td>
                     </tr>
                 )
             })}
