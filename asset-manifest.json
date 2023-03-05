@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/studentenrollmentform/static/css/main.c6ad9492.css",
+    "main.js": "/studentenrollmentform/static/js/main.96b48d22.js",
+    "static/media/female.png": "/studentenrollmentform/static/media/female.9ce5b24d251100fb18b3.png",
+    "static/media/male.png": "/studentenrollmentform/static/media/male.9f2595027f39dc8f7bd7.png",
+    "index.html": "/studentenrollmentform/index.html",
+    "main.c6ad9492.css.map": "/studentenrollmentform/static/css/main.c6ad9492.css.map",
+    "main.96b48d22.js.map": "/studentenrollmentform/static/js/main.96b48d22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6ad9492.css",
+    "static/js/main.96b48d22.js"
+  ]
+}
